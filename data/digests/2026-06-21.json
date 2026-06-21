@@ -1,0 +1,223 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T09:18:05.660092+00:00",
+  "count": 19,
+  "items": [
+    {
+      "title": "[CRITICAL] GHSA-h3m5-97jq-qjrf — OpenRemote Manager: removeAlarms cross-realm IDOR (bulk delete)",
+      "url": "https://github.com/advisories/GHSA-h3m5-97jq-qjrf",
+      "source": "GitHub Advisory",
+      "source_type": "github",
+      "upvotes": 0,
+      "comments": 0,
+      "severity": "critical",
+      "severity_score": 10,
+      "created_utc": 1781905397.0,
+      "score": 100,
+      "category": "Vulns"
+    },
+    {
+      "title": "Build Your Own OpenClaw Using Vercel, Composio, Supermemory",
+      "url": "https://www.youtube.com/watch?v=hIh2O9OL69o",
+      "source": "David Bombal",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 14406,
+      "created_utc": 1781865588.0,
+      "score": 91.59,
+      "category": "Vulns"
+    },
+    {
+      "title": "Why Computers Can’t Count Money",
+      "url": "https://www.youtube.com/watch?v=rQxPGqPq8wk",
+      "source": "David Bombal",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 26139,
+      "created_utc": 1781777365.0,
+      "score": 89.17,
+      "category": "News"
+    },
+    {
+      "title": "Is it Possible to Block Childrens' Access to Social Media? - Computerphile",
+      "url": "https://www.youtube.com/watch?v=2jJeSgO_MGo",
+      "source": "NetworkChuck",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 80805,
+      "created_utc": 1781620204.0,
+      "score": 89.07,
+      "category": "News"
+    },
+    {
+      "title": "[HIGH] GHSA-869j-r97x-hx2g — Anki's local HTTP server does not sufficiently validate requests",
+      "url": "https://github.com/advisories/GHSA-869j-r97x-hx2g",
+      "source": "GitHub Advisory",
+      "source_type": "github",
+      "upvotes": 0,
+      "comments": 0,
+      "severity": "high",
+      "severity_score": 8,
+      "created_utc": 1781907057.0,
+      "score": 80,
+      "category": "Vulns"
+    },
+    {
+      "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
+      "url": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
+      "source": "The Hacker News",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1781949364.0,
+      "score": 75,
+      "category": "Vulns"
+    },
+    {
+      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
+      "url": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
+      "source": "Bleeping Computer",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1781969026.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
+      "source": "Bleeping Computer",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1781964559.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation",
+      "url": "https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/",
+      "source": "SecurityWeek",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1781948920.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever",
+      "url": "https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/",
+      "source": "CrowdStrike Blog",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1782033480.5107715,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "New Abuse of the ClickOnce Technology, Part 1: The Inner Workings of ClickOnce Application Deployment",
+      "url": "https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/",
+      "source": "CrowdStrike Blog",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1782033480.5107787,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
+      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+      "source": "Krebs on Security",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1781804278.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+      "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
+      "source": "The Hacker News",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1781894261.0,
+      "score": 65,
+      "category": "Vulns"
+    },
+    {
+      "title": "Stressors, AI Forcing Changes to Cybersecurity Teams",
+      "url": "https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams",
+      "source": "Dark Reading",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1781874000.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Novo Nordisk Breach Exposes Software Development Pipeline Risk",
+      "url": "https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk",
+      "source": "Dark Reading",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1781813147.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Friday Squid Blogging: Victims of Unregulated Squid Fishing",
+      "url": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html",
+      "source": "Schneier on Security",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1781903028.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Anthropic’s Fable and the State of AI",
+      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html",
+      "source": "Schneier on Security",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1781867010.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Risky Business #842 -- Anthropic needs an adult in the C suite",
+      "url": "https://risky.biz/RB842/",
+      "source": "Risky Business",
+      "source_type": "podcast",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1781669081.0,
+      "score": 50,
+      "category": "News"
+    },
+    {
+      "title": "SN 1083: Patch Tuesday à la AI - Arch Linux Repo Under Siege",
+      "url": "https://twit.tv/shows/security-now/episodes/1083",
+      "source": "Security Now",
+      "source_type": "podcast",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1781662457.0,
+      "score": 50,
+      "category": "Vulns"
+    }
+  ]
+}
