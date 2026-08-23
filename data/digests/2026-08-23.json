@@ -1,0 +1,223 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T08:26:17.311979+00:00",
+  "count": 19,
+  "items": [
+    {
+      "title": "[CRITICAL] CVE-2026-77415 — JSONata vulnerable to Arbitrary Code Execution via crafted JSONata expressions",
+      "url": "https://github.com/advisories/GHSA-66mm-25pp-rfff",
+      "source": "GitHub Advisory",
+      "source_type": "github",
+      "upvotes": 0,
+      "comments": 0,
+      "severity": "critical",
+      "severity_score": 10,
+      "created_utc": 1787346259.0,
+      "score": 100,
+      "category": "Vulns"
+    },
+    {
+      "title": "[CRITICAL] CVE-2026-77414 — JSONata vulnerable to Arbitrary Code Execution via crafted JSONata expressions",
+      "url": "https://github.com/advisories/GHSA-2943-5xfg-gq5f",
+      "source": "GitHub Advisory",
+      "source_type": "github",
+      "upvotes": 0,
+      "comments": 0,
+      "severity": "critical",
+      "severity_score": 10,
+      "created_utc": 1787345881.0,
+      "score": 100,
+      "category": "Vulns"
+    },
+    {
+      "title": "Learn Data Structures and Algorithms Visually – Crash Course",
+      "url": "https://www.youtube.com/watch?v=RpLnQnurpLY",
+      "source": "David Bombal",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 75942,
+      "created_utc": 1787220875.0,
+      "score": 93.8,
+      "category": "News"
+    },
+    {
+      "title": "The Paper That Created Modern AI",
+      "url": "https://www.youtube.com/watch?v=jIo2ccqPnLQ",
+      "source": "David Bombal",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 15216,
+      "created_utc": 1787310031.0,
+      "score": 91.82,
+      "category": "News"
+    },
+    {
+      "title": "The OpenAI Story Actually Scares Me",
+      "url": "https://www.youtube.com/watch?v=V4zb8QhQY58",
+      "source": "LiveOverflow",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 43859,
+      "created_utc": 1786896037.0,
+      "score": 86.42,
+      "category": "News"
+    },
+    {
+      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
+      "url": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
+      "source": "The Hacker News",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1787409161.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Hackers infect Android car head units with proxy botnet malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+      "source": "Bleeping Computer",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1787408064.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
+      "url": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+      "source": "Bleeping Computer",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1787403609.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
+      "url": "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/",
+      "source": "SecurityWeek",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1787387400.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms",
+      "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/",
+      "source": "CrowdStrike Blog",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1787473571.4506211,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Benchmaxxing: When the Benchmark Becomes the Target",
+      "url": "https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/",
+      "source": "CrowdStrike Blog",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1787473571.4506276,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+      "url": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+      "source": "The Hacker News",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1787338380.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
+      "url": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
+      "source": "Dark Reading",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1787333813.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Calling on Cyber Pros to Help Defend City Hall",
+      "url": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
+      "source": "Dark Reading",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1787320800.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Friday Squid Blogging: Neon Flying Squid",
+      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html",
+      "source": "Schneier on Security",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1787346440.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "AI Is Learning to Write Genetic Code",
+      "url": "https://www.schneier.com/blog/archives/2026/08/ai-is-learning-to-write-genetic-code.html",
+      "source": "Schneier on Security",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1787331110.0,
+      "score": 65,
+      "category": "Tutorials"
+    },
+    {
+      "title": "Former NSA Director Paul Nakasone Launches National Security Advisory Firm",
+      "url": "https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/",
+      "source": "SecurityWeek",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1787329672.0,
+      "score": 65,
+      "category": "Vulns"
+    },
+    {
+      "title": "Risky Business #849 -- Trump will unleash contractors on cybercriminals",
+      "url": "https://risky.biz/RB849/",
+      "source": "Risky Business",
+      "source_type": "podcast",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1787109806.0,
+      "score": 50,
+      "category": "News"
+    },
+    {
+      "title": "SN 1092: Restraint Abliteration - Rotating Keys, Broken Guardrails",
+      "url": "https://twit.tv/shows/security-now/episodes/1092",
+      "source": "Security Now",
+      "source_type": "podcast",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1787107254.0,
+      "score": 50,
+      "category": "News"
+    }
+  ]
+}
