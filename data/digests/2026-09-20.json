@@ -1,0 +1,223 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T12:51:20.113005+00:00",
+  "count": 19,
+  "items": [
+    {
+      "title": "[CRITICAL] CVE-2026-59163 — Mnemosyne has JWT signature verification bypass sync server that allows authentication bypass",
+      "url": "https://github.com/advisories/GHSA-xcw4-53cc-hv32",
+      "source": "GitHub Advisory",
+      "source_type": "github",
+      "upvotes": 0,
+      "comments": 0,
+      "severity": "critical",
+      "severity_score": 10,
+      "created_utc": 1789754066.0,
+      "score": 100,
+      "category": "Vulns"
+    },
+    {
+      "title": "[CRITICAL] CVE-2026-63374 — AnyIO: TLSStream IDNA 2003 host name encoding enables potential TLS certificate spoofing",
+      "url": "https://github.com/advisories/GHSA-82r6-8w77-94w6",
+      "source": "GitHub Advisory",
+      "source_type": "github",
+      "upvotes": 0,
+      "comments": 0,
+      "severity": "critical",
+      "severity_score": 10,
+      "created_utc": 1789751838.0,
+      "score": 100,
+      "category": "Vulns"
+    },
+    {
+      "title": "My Browser Cache Got Infected",
+      "url": "https://www.youtube.com/watch?v=oJHOlNTH7lY",
+      "source": "John Hammond",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 212957,
+      "created_utc": 1789650011.0,
+      "score": 95,
+      "category": "News"
+    },
+    {
+      "title": "How OpenAI got hacked with an image",
+      "url": "https://www.youtube.com/watch?v=gjHh9g7yo9Y",
+      "source": "LiveOverflow",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 252748,
+      "created_utc": 1789697150.0,
+      "score": 95,
+      "category": "News"
+    },
+    {
+      "title": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
+      "url": "https://www.youtube.com/watch?v=BMYvfVk8Ar0",
+      "source": "David Bombal",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 179111,
+      "created_utc": 1789651931.0,
+      "score": 95,
+      "category": "Tutorials"
+    },
+    {
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "source": "The Hacker News",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1789843013.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "source": "The Hacker News",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1789824528.0,
+      "score": 75,
+      "category": "Vulns"
+    },
+    {
+      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+      "source": "Bleeping Computer",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1789905600.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+      "source": "Bleeping Computer",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1789829791.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "[Virtual Event] Cybersecurity Outlook 2027",
+      "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
+      "source": "Dark Reading",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1796313600.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding",
+      "url": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
+      "source": "SecurityWeek",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1789828200.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026",
+      "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/",
+      "source": "CrowdStrike Blog",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1789908674.8650155,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "CrowdStrike SafeMind: When the Best Offense Builds the Best Defense",
+      "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/",
+      "source": "CrowdStrike Blog",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1789908674.8650217,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
+      "source": "Dark Reading",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1789763091.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Friday Squid Blogging: On Squid Egg Sacs",
+      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html",
+      "source": "Schneier on Security",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1789765560.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Are AIs Still Struggling with CAPTCHAs?",
+      "url": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
+      "source": "Schneier on Security",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1789729552.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw",
+      "url": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
+      "source": "SecurityWeek",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1789741500.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Risky Business #853 -- We're all gonna die, apparently",
+      "url": "https://risky.biz/RB853/",
+      "source": "Risky Business",
+      "source_type": "podcast",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1789531409.0,
+      "score": 50,
+      "category": "News"
+    },
+    {
+      "title": "SN 1096: Are we the Krell? - 153 Million Driver's Licenses Leaked",
+      "url": "https://twit.tv/shows/security-now/episodes/1096",
+      "source": "Security Now",
+      "source_type": "podcast",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1789527454.0,
+      "score": 50,
+      "category": "News"
+    }
+  ]
+}
