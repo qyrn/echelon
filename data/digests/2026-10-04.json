@@ -1,0 +1,223 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T13:40:56.015903+00:00",
+  "count": 19,
+  "items": [
+    {
+      "title": "[CRITICAL] CVE-2026-73802 — gitea-runner: workflow container.options passes host namespaces and capability flags to job container when privileged mode is disabled",
+      "url": "https://github.com/advisories/GHSA-x4q3-gcj3-m6cf",
+      "source": "GitHub Advisory",
+      "source_type": "github",
+      "upvotes": 0,
+      "comments": 0,
+      "severity": "critical",
+      "severity_score": 10,
+      "created_utc": 1790983092.0,
+      "score": 100,
+      "category": "Vulns"
+    },
+    {
+      "title": "[CRITICAL] CVE-2026-10032 — @a2ui/web_core: `openUrl` permits `javascript:` URI execution via agent-supplied button actions",
+      "url": "https://github.com/advisories/GHSA-72qq-p3r5-f7wq",
+      "source": "GitHub Advisory",
+      "source_type": "github",
+      "upvotes": 0,
+      "comments": 0,
+      "severity": "critical",
+      "severity_score": 10,
+      "created_utc": 1790981749.0,
+      "score": 100,
+      "category": "Vulns"
+    },
+    {
+      "title": "OpenAI Hacked with a 1-Year-Old Bug",
+      "url": "https://www.youtube.com/watch?v=qypnjORyWNI",
+      "source": "LiveOverflow",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 44615,
+      "created_utc": 1790951762.0,
+      "score": 96.49,
+      "category": "News"
+    },
+    {
+      "title": "Build your own Mobile App with Codex GPT-6 Astra - Full iOS and Android Course",
+      "url": "https://www.youtube.com/watch?v=bGALxRWI10A",
+      "source": "David Bombal",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 143186,
+      "created_utc": 1790864684.0,
+      "score": 95,
+      "category": "News"
+    },
+    {
+      "title": "Black Hat AI",
+      "url": "https://www.youtube.com/watch?v=xHDc6-7bjyw",
+      "source": "John Hammond",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 93627,
+      "created_utc": 1790859636.0,
+      "score": 94.71,
+      "category": "News"
+    },
+    {
+      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+      "url": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+      "source": "The Hacker News",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791098525.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+      "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
+      "source": "The Hacker News",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791098432.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Anthropic asks Claude users to share voice data for AI model training",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+      "source": "Bleeping Computer",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791111201.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
+      "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
+      "source": "Bleeping Computer",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791069154.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS",
+      "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/",
+      "source": "CrowdStrike Blog",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791121250.500558,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them",
+      "url": "https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/",
+      "source": "CrowdStrike Blog",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791121250.5005655,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "User Agent Strings Curiosities, (Sun, Oct 4th)",
+      "url": "https://isc.sans.edu/diary/rss/33394",
+      "source": "SANS ISC",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791100731.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "YARA-X 1.21.0 Release, (Sat, Oct 3rd)",
+      "url": "https://isc.sans.edu/diary/rss/33392",
+      "source": "SANS ISC",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791038421.0,
+      "score": 75,
+      "category": "Tools"
+    },
+    {
+      "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
+      "url": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
+      "source": "Dark Reading",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1790972317.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response",
+      "url": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
+      "source": "Dark Reading",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1790960190.0,
+      "score": 65,
+      "category": "Vulns"
+    },
+    {
+      "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
+      "source": "Schneier on Security",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1790974938.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Unidentified Flock Cameras in Florida",
+      "url": "https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html",
+      "source": "Schneier on Security",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1790952766.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Soap Box: HD Moore talks OT security, frontier fearmongering and more",
+      "url": "https://risky.biz/SOAPBOX111/",
+      "source": "Risky Business",
+      "source_type": "podcast",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1790722232.0,
+      "score": 50,
+      "category": "News"
+    },
+    {
+      "title": "SN 1098: How worried should we be? - Unpredictable Agents",
+      "url": "https://twit.tv/shows/security-now/episodes/1098",
+      "source": "Security Now",
+      "source_type": "podcast",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1790733339.0,
+      "score": 50,
+      "category": "News"
+    }
+  ]
+}
