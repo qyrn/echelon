@@ -1,0 +1,223 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:37:33.378300+00:00",
+  "count": 19,
+  "items": [
+    {
+      "title": "[CRITICAL] CVE-2026-108261 — TinaCMS admin preview iframe loads an attacker-controlled origin from the URL fragment",
+      "url": "https://github.com/advisories/GHSA-x34j-47hf-4xg7",
+      "source": "GitHub Advisory",
+      "source_type": "github",
+      "upvotes": 0,
+      "comments": 0,
+      "severity": "critical",
+      "severity_score": 10,
+      "created_utc": 1791579408.0,
+      "score": 100,
+      "category": "Vulns"
+    },
+    {
+      "title": "[CRITICAL] CVE-2026-107845 — Contao: Cross-site scripting in the comments bundle",
+      "url": "https://github.com/advisories/GHSA-628f-v4f6-p37r",
+      "source": "GitHub Advisory",
+      "source_type": "github",
+      "upvotes": 0,
+      "comments": 0,
+      "severity": "critical",
+      "severity_score": 10,
+      "created_utc": 1791579230.0,
+      "score": 100,
+      "category": "Vulns"
+    },
+    {
+      "title": "n8n Full Course – Architect Scalable AI Automations from Scratch",
+      "url": "https://www.youtube.com/watch?v=YY-egxTQirA",
+      "source": "David Bombal",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 98588,
+      "created_utc": 1791565219.0,
+      "score": 99.94,
+      "category": "News"
+    },
+    {
+      "title": "Race Conditions on a Human Scale - Computerphile",
+      "url": "https://www.youtube.com/watch?v=W0jPTqIo5oE",
+      "source": "NetworkChuck",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 98256,
+      "created_utc": 1791464425.0,
+      "score": 94.92,
+      "category": "News"
+    },
+    {
+      "title": "Just Hacking Training Turns 2!",
+      "url": "https://www.youtube.com/watch?v=1sB95-QhQGU",
+      "source": "John Hammond",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 19034,
+      "created_utc": 1791612533.0,
+      "score": 92.8,
+      "category": "News"
+    },
+    {
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "source": "The Hacker News",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791692674.0,
+      "score": 75,
+      "category": "Vulns"
+    },
+    {
+      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
+      "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
+      "source": "Bleeping Computer",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791728626.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+      "source": "Bleeping Computer",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791644874.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Solving the Continuous Authorization Conundrum",
+      "url": "https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/",
+      "source": "CrowdStrike Blog",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791729446.2514284,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage",
+      "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/",
+      "source": "CrowdStrike Blog",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791729446.2514353,
+      "score": 75,
+      "category": "Bounty"
+    },
+    {
+      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
+      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "source": "Krebs on Security",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791591462.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+      "source": "The Hacker News",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791630000.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
+      "source": "Dark Reading",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791579512.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "AI Scramble Drives Cybersecurity M&amp;A Boom",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
+      "source": "Dark Reading",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791573986.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Friday Squid Blogging: I Caught a Squid",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
+      "source": "Schneier on Security",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791577485.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
+      "url": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
+      "source": "SecurityWeek",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791630000.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
+      "url": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
+      "source": "SecurityWeek",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791580066.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "180: Conti",
+      "url": "https://darknetdiaries.com/episode/180/",
+      "source": "Darknet Diaries",
+      "source_type": "podcast",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791270000.0,
+      "score": 50,
+      "category": "News"
+    },
+    {
+      "title": "SN 1099: An Alien Mind - From RSA Weakness to Agentic Attacks",
+      "url": "https://twit.tv/shows/security-now/episodes/1099",
+      "source": "Security Now",
+      "source_type": "podcast",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791340022.0,
+      "score": 50,
+      "category": "News"
+    }
+  ]
+}
