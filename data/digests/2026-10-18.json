@@ -1,0 +1,223 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T12:26:07.293608+00:00",
+  "count": 19,
+  "items": [
+    {
+      "title": "[CRITICAL] CVE-2026-105192 — LMCache: Remote code execution via unsafe deserialization in multiprocess mode transport",
+      "url": "https://github.com/advisories/GHSA-w5f2-9q9c-ff4h",
+      "source": "GitHub Advisory",
+      "source_type": "github",
+      "upvotes": 0,
+      "comments": 0,
+      "severity": "critical",
+      "severity_score": 10,
+      "created_utc": 1792181324.0,
+      "score": 100,
+      "category": "Vulns"
+    },
+    {
+      "title": "[CRITICAL] CVE-2026-96620 — Claude Agent SDK: Argument Injection via resume Option Allows Arbitrary Command Execution",
+      "url": "https://github.com/advisories/GHSA-h4mw-j7qp-8mwm",
+      "source": "GitHub Advisory",
+      "source_type": "github",
+      "upvotes": 0,
+      "comments": 0,
+      "severity": "critical",
+      "severity_score": 10,
+      "created_utc": 1792179877.0,
+      "score": 100,
+      "category": "Vulns"
+    },
+    {
+      "title": "Inside an AI Factory – Power, Cooling, and GPUs Explained",
+      "url": "https://www.youtube.com/watch?v=QKNsHZatiWU",
+      "source": "David Bombal",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 133527,
+      "created_utc": 1792151628.0,
+      "score": 95,
+      "category": "Tutorials"
+    },
+    {
+      "title": "Multiplayer Gaming & Flight Simulation - Computerphile",
+      "url": "https://www.youtube.com/watch?v=WqrwAFs-fq0",
+      "source": "NetworkChuck",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 85119,
+      "created_utc": 1792071019.0,
+      "score": 94.3,
+      "category": "News"
+    },
+    {
+      "title": "AI Security Engineering with Ashish Rajan!",
+      "url": "https://www.youtube.com/watch?v=26W_XtvkHAI",
+      "source": "John Hammond",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 13287,
+      "created_utc": 1792155601.0,
+      "score": 91.23,
+      "category": "News"
+    },
+    {
+      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+      "source": "The Hacker News",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1792311782.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "source": "Bleeping Computer",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1792250331.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "source": "Bleeping Computer",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1792247568.0,
+      "score": 75,
+      "category": "Vulns"
+    },
+    {
+      "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
+      "url": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+      "source": "SecurityWeek",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1792321200.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities",
+      "url": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/",
+      "source": "CrowdStrike Blog",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1792326361.7499115,
+      "score": 75,
+      "category": "Vulns"
+    },
+    {
+      "title": "U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance",
+      "url": "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/",
+      "source": "CrowdStrike Blog",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1792326361.7499194,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "source": "The Hacker News",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1792235516.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
+      "url": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
+      "source": "Dark Reading",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1792182877.0,
+      "score": 65,
+      "category": "Vulns"
+    },
+    {
+      "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
+      "url": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
+      "source": "Dark Reading",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1792180170.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
+      "source": "Schneier on Security",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1792184807.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Backdooring Open-Weight AI Models",
+      "url": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
+      "source": "Schneier on Security",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1792148693.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
+      "url": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+      "source": "SecurityWeek",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1792234800.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Risky Business #855 -- ShinyHunters done sowing, enters reaping phase",
+      "url": "https://risky.biz/RB855/",
+      "source": "Risky Business",
+      "source_type": "podcast",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791952549.0,
+      "score": 50,
+      "category": "News"
+    },
+    {
+      "title": "SN 1100: Booby Trapping LLMs - AI Frenzy in Cybercrime",
+      "url": "https://twit.tv/shows/security-now/episodes/1100",
+      "source": "Security Now",
+      "source_type": "podcast",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1791944313.0,
+      "score": 50,
+      "category": "News"
+    }
+  ]
+}
