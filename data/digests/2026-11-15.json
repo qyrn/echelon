@@ -1,0 +1,208 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T15:20:30.757313+00:00",
+  "count": 18,
+  "items": [
+    {
+      "title": "Atomic Operations - Computerphile",
+      "url": "https://www.youtube.com/watch?v=BHOw09O3ZsI",
+      "source": "NetworkChuck",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 75174,
+      "created_utc": 1794495569.0,
+      "score": 93.76,
+      "category": "News"
+    },
+    {
+      "title": "Codex & AI Coding Agents - Learn Agentic Coding",
+      "url": "https://www.youtube.com/watch?v=ajfQWhGQGLE",
+      "source": "David Bombal",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 129850,
+      "created_utc": 1794312039.0,
+      "score": 90,
+      "category": "News"
+    },
+    {
+      "title": "HackTheBox - Nimbus",
+      "url": "https://www.youtube.com/watch?v=smdOz8LQNC0",
+      "source": "IppSec",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 5876,
+      "created_utc": 1794668461.0,
+      "score": 87.69,
+      "category": "News"
+    },
+    {
+      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+      "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+      "source": "The Hacker News",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1794742051.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+      "source": "The Hacker News",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1794730924.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "source": "Bleeping Computer",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1794677245.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Upcoming Speaking Engagements",
+      "url": "https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html",
+      "source": "Schneier on Security",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1794675759.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
+      "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+      "source": "SecurityWeek",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1794747093.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook",
+      "url": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
+      "source": "SecurityWeek",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1794682800.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Inside Falcon AI Gateway: One Control Point for AI Traffic",
+      "url": "https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/",
+      "source": "CrowdStrike Blog",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1794756015.9528322,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions",
+      "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/",
+      "source": "CrowdStrike Blog",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1794756015.9528387,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+      "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+      "source": "Bleeping Computer",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1794669349.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
+      "url": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
+      "source": "Dark Reading",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1794601227.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
+      "url": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
+      "source": "Dark Reading",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1794574800.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
+      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
+      "source": "Schneier on Security",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1794607246.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Risky Business #859 -- ARTEX damage approaches crisis levels",
+      "url": "https://risky.biz/RB859/",
+      "source": "Risky Business",
+      "source_type": "podcast",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1794377355.0,
+      "score": 50,
+      "category": "News"
+    },
+    {
+      "title": "Soap Box: Security must be more browser-centric",
+      "url": "https://risky.biz/SOAPBOX112/",
+      "source": "Risky Business",
+      "source_type": "podcast",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1794193130.0,
+      "score": 50,
+      "category": "News"
+    },
+    {
+      "title": "SN 1104: The hole in OpenSSH - Password Bypass in Plain Sight",
+      "url": "https://twit.tv/shows/security-now/episodes/1104",
+      "source": "Security Now",
+      "source_type": "podcast",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1794366300.0,
+      "score": 50,
+      "category": "News"
+    }
+  ]
+}
