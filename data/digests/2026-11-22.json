@@ -1,0 +1,223 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T15:54:48.911903+00:00",
+  "count": 19,
+  "items": [
+    {
+      "title": "[CRITICAL] CVE-2026-104099 — Fabio: Access-control bypass through unnormalized request paths",
+      "url": "https://github.com/advisories/GHSA-4hrh-34w3-5ww8",
+      "source": "GitHub Advisory",
+      "source_type": "github",
+      "upvotes": 0,
+      "comments": 0,
+      "severity": "critical",
+      "severity_score": 10,
+      "created_utc": 1795186285.0,
+      "score": 100,
+      "category": "Vulns"
+    },
+    {
+      "title": "Learn Data Structures and Algorithms in Python with Visualizations",
+      "url": "https://www.youtube.com/watch?v=ybe6EGe_wjo",
+      "source": "David Bombal",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 141372,
+      "created_utc": 1795005466.0,
+      "score": 90,
+      "category": "News"
+    },
+    {
+      "title": "HackTheBox - PingPong",
+      "url": "https://www.youtube.com/watch?v=w2A52-dhO9E",
+      "source": "IppSec",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 6253,
+      "created_utc": 1795273218.0,
+      "score": 87.96,
+      "category": "News"
+    },
+    {
+      "title": "Is Cybersecurity Still Worth It in the AI Era?",
+      "url": "https://www.youtube.com/watch?v=cbJs1GPIU50",
+      "source": "Nahamsec",
+      "source_type": "youtube",
+      "upvotes": 0,
+      "comments": 0,
+      "views": 14502,
+      "created_utc": 1794836411.0,
+      "score": 81.61,
+      "category": "News"
+    },
+    {
+      "title": "[HIGH] CVE-2026-122247 — Budibase: Unauthenticated global-admin & database creation via tenant-confusion bypass of the one-time init guard (`POST /api/global/users/init`)",
+      "url": "https://github.com/advisories/GHSA-25qc-m4pw-2w8r",
+      "source": "GitHub Advisory",
+      "source_type": "github",
+      "upvotes": 0,
+      "comments": 0,
+      "severity": "high",
+      "severity_score": 8,
+      "created_utc": 1795218601.0,
+      "score": 80,
+      "category": "Vulns"
+    },
+    {
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "source": "The Hacker News",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1795324015.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "source": "The Hacker News",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1795323821.0,
+      "score": 75,
+      "category": "Vulns"
+    },
+    {
+      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+      "source": "Bleeping Computer",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1795362184.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+      "source": "Bleeping Computer",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1795360525.0,
+      "score": 75,
+      "category": "News"
+    },
+    {
+      "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+      "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+      "source": "SecurityWeek",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1795308782.0,
+      "score": 75,
+      "category": "Vulns"
+    },
+    {
+      "title": "Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity",
+      "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/",
+      "source": "CrowdStrike Blog",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1795362883.5805666,
+      "score": 75,
+      "category": "Vulns"
+    },
+    {
+      "title": "NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform",
+      "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/",
+      "source": "CrowdStrike Blog",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1795362883.5805755,
+      "score": 75,
+      "category": "Vulns"
+    },
+    {
+      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "source": "Krebs on Security",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1795221399.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+      "source": "Dark Reading",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1795208607.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "In Security, Words Matter as Much as Tools, Maybe More",
+      "url": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+      "source": "Dark Reading",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1795199740.0,
+      "score": 65,
+      "category": "Tools"
+    },
+    {
+      "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
+      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
+      "source": "Schneier on Security",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1795212252.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Opening a 400-Year-Old Cryptex",
+      "url": "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html",
+      "source": "Schneier on Security",
+      "source_type": "rss",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1795176286.0,
+      "score": 65,
+      "category": "News"
+    },
+    {
+      "title": "Risky Business #860 -- Google: Agentic hacking has “crossed a threshold”",
+      "url": "https://risky.biz/RB860/",
+      "source": "Risky Business",
+      "source_type": "podcast",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1794977262.0,
+      "score": 50,
+      "category": "News"
+    },
+    {
+      "title": "SN 1105: Formal Code Verification - When All Your Apps Go Dark",
+      "url": "https://twit.tv/shows/security-now/episodes/1105",
+      "source": "Security Now",
+      "source_type": "podcast",
+      "upvotes": 0,
+      "comments": 0,
+      "created_utc": 1794973141.0,
+      "score": 50,
+      "category": "News"
+    }
+  ]
+}
